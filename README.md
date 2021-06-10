@@ -51,6 +51,8 @@ Prints the following parts:
 - 1x PanelMeterClock_v1_displayHolder: Prusament PETG, Preset 0.2mm SPEED, no support
 - 1x PanelMeterClock_v1_BackPanel (if not laser cutted): Prusament PETG, Preset 0.3mm DRAFT, no supports
 
+the clock in the photos uses Prusament PETG Yellow Gold for the body and Prusament PETG Mango Yellow for the display holder
+
 
 # Changing the scale on the current meters
 
