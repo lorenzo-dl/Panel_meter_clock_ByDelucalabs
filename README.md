@@ -4,7 +4,7 @@ I’ve first seen a clock that uses panel instruments to display time on twitter
 
 I decided to design this clock with ideas from some of the most iconic electronics devices of the 60s and 70s, like for example the Brionvega Agol TV or the Braun LED DN 40 Clock.
 
-My version uses two 50uA current meters from AliExpress, that with a voltage 0-5V and a series resistor of 100KOhm (or a series between a 82KOhm resistor and a 20KOhm potentiometer for better tuning) can simply display the every values you want to output.
+My version uses two 50uA current meters from AliExpress, that with a voltage 0-5V and a series resistor of 100KOhm (or a series between a 82KOhm resistor and a 20KOhm potentiometer for better tuning) can simply display everything you want to output.
 
 | Front | Back |
 |--------|--------|
