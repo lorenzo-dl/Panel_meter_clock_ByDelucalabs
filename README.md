@@ -64,10 +64,12 @@ The other method requires a co2 laser and consist in painting the back of the or
 # Assembly instruction 
 
 Connect the circuit as the diagram shows and upload the included sketch to the Arduino to test the circuit.
+
 ![](images/circuit_diagram.PNG)
 
 
 Print the parts and assemble the panels in the PanelMeterClock_v1_displayHolder and secure them with the nuts only on the two screws in the middle as shown in the next image.
+
 ![](images/img4.jpg)
 
 ATTENTION!!! The following step can be a little tricky, is possible to do it but require patience.
