@@ -38,9 +38,9 @@ Find additional info about each part of the design in:
 
 # Print Settings
 
-I’ve printed all of the parts of this clock out of Prusament PETG, with an original Prusa MK3S with the powder coated bed for the 3d printed parts. 
+I’ve printed all of the parts of this clock out of Prusament PETG, with an original Prusa MK3S with the powder coated bed.
 
-I used Prusa Slicer to create the attached gcodes.
+I used Prusa Slicer to create the attached gcodes. (if you want to go faster tune the speed up to 130%)
 
 All the stls are in the right orientation.
 
